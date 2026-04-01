@@ -68,7 +68,7 @@ weather-web-app/
 
 ```bash
 git clone https://github.com/sanapalakala/weather-web-app.git
-
+```
 ---
 
 ## Author
